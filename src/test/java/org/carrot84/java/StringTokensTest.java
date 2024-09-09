@@ -1,6 +1,5 @@
-package org.carrot84;
+package org.carrot84.java;
 
-import org.carrot84.java.StringTokens;
 import org.junit.jupiter.api.Test;
 
 class StringTokensTest {

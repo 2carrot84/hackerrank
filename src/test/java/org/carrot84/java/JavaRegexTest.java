@@ -1,8 +1,7 @@
-package org.carrot84;
+package org.carrot84.java;
 
 import static org.assertj.core.api.Assertions.*;
 
-import org.carrot84.java.MyRegex;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 

@@ -1,8 +1,7 @@
-package org.carrot84;
+package org.carrot84.java;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import org.carrot84.java.DataTypes;
 import org.junit.jupiter.api.Test;
 
 class DataTypesTest {
