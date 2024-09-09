@@ -1,7 +1,6 @@
-package org.carrot84;
+package org.carrot84.java;
 
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
 public class IfElse {
 	private static final Scanner scanner = new Scanner(System.in);

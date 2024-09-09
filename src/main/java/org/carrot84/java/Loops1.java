@@ -1,4 +1,4 @@
-package org.carrot84;
+package org.carrot84.java;
 
 import java.io.BufferedReader;
 import java.io.IOException;

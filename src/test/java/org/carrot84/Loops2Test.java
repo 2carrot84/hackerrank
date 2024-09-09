@@ -1,5 +1,6 @@
 package org.carrot84;
 
+import org.carrot84.java.Loops2;
 import org.junit.jupiter.api.Test;
 
 class Loops2Test {

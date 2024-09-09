@@ -1,4 +1,4 @@
-package org.carrot84;
+package org.carrot84.java;
 
 import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicReference;

@@ -1,4 +1,4 @@
-package org.carrot84;
+package org.carrot84.java;
 
 public class Main {
 	public static void main(String[] args) {

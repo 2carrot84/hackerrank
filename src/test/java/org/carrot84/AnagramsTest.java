@@ -1,8 +1,8 @@
 package org.carrot84;
 
 import static org.assertj.core.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.*;
 
+import org.carrot84.java.Anagrams;
 import org.junit.jupiter.api.Test;
 
 class AnagramsTest {

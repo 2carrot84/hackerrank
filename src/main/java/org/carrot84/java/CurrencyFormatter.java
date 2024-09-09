@@ -1,4 +1,4 @@
-package org.carrot84;
+package org.carrot84.java;
 
 import java.text.NumberFormat;
 import java.util.Locale;
