@@ -8,7 +8,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.List;
-import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
 public class AVeryBigSum {
@@ -41,7 +40,7 @@ public class AVeryBigSum {
 
 		public static long aVeryBigSum(List<Long> ar) {
 			// Write your code here
-			// return ar.stream().reduce(Long::sum).get();
+			// return ar.stream().reduce(Long::sum).orElse(0L);
 			return ar.stream().mapToLong(Long::longValue).sum();
 		}
 	}
